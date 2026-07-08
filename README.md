@@ -65,12 +65,6 @@ sudo systemctl disable apache2
 | `03_pam_harden.sh` | PAM password quality and account lockout |
 | `04_alerting.sh` | Alerting system across all hardening layers |
 
-Commands to run:
-```bash
-sudo chmod +x ------.sh
-sudo ./------.sh
-```
-
 
 ### Running Order
 ```bash
