@@ -66,8 +66,11 @@ sudo systemctl disable apache2
 | `04_alerting.sh` | Alerting system across all hardening layers |
 
 Commands to run:
+```bash
 sudo chmod +x ------.sh
 sudo ./------.sh
+```
+
 
 ### Running Order
 ```bash
